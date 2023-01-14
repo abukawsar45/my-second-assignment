@@ -1,0 +1,52 @@
+/* _____style all______ */
+*{
+    margin: 0;
+}
+/* _________style header section________ */
+.top{
+    display: flex;
+    height: auto;
+    width: auto;
+}
+.title{
+    text-align: center;
+    width: 302px;
+    height: 53px;
+    left: 228px;
+    padding-top: 50px;
+    
+}
+.nav ul{
+    padding-top: 63px;
+    padding-left: 240px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    
+    
+}
+ul li{
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+}
+/* ----------_____Button Section_____--------- */
+.top-2{
+    position: absolute;
+    text-align: center;
+}
+
+.top-2 a{
+    text-decoration: none;
+}
+.background-image{
+    margin: 147px 250px 0px 250px;
+    position: absolute;
+    height: 700px;
+    width: 1400px;
+    border-radius: 8px;
+}
